@@ -1,0 +1,3 @@
+detuning_MHz,efficiency_chan3_percent,efficiency_chan4_percent,counts_chan3,counts_chan4,N_valid_pulses
+-6.8,0.07627482634517692,0.0947881337105111,103,128,135038
+-6.2,0.252233676975945,0.2646048109965636,367,385,145500
